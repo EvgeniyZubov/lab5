@@ -3,8 +3,8 @@ from lab5_2 import Window2
 import tkinter
 
 task_list = {
-    "1": (Window1, "Zubov_Yevgeniy Lab5.1", "1024x768"),
-    "2": (Window2, "Zubov_Yevgeniy Lab5.2", "1024x768")
+    "1": (Window1, "lab5_1-322-v13-Zubov-Yevgen", "1024x768"),
+    "2": (Window2, "lab5_2-322-v13-Zubov-Yevgen", "1024x768")
 
 }
 
